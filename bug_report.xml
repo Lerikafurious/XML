@@ -4,8 +4,8 @@
   <precondition2>"open json file"</precondition2>
   <step1>"make changes in file"</step1>
   <step2>"enter information in commit changes input"</step2>
-  <step2>"click on Commit changes button"</step2>
-  <step2>"after redirection to the file page, entered information will be shown on the page"</step2>
+  <step3>"click on Commit changes button"</step2>
+  <step4>"after redirection to the file page, entered information will be shown on the page"</step2>
   <expectedResult>"changes will be saved"</expectedResult>
   <actualResult>"file is blank, changes haven't been saved"</actualResult>
   <severity>"major"</severity>
